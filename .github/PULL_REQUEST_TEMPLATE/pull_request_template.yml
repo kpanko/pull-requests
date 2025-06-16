@@ -1,7 +1,0 @@
-pull_request_templates:
-  - name: Feature
-    description: Use this template for new features
-    path: .github/PULL_REQUEST_TEMPLATE/feature.md
-  - name: Bug Fix
-    description: For bug fix pull requests
-    path: .github/PULL_REQUEST_TEMPLATE/bugfix.md
